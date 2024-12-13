@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App9</string>
+    <string name="Registration">User Registration</string>
+    <string name="id">ID</string>
+    <string name="mobile">Mobile</string>
+    <string name="name">Name</string>
+    <string name="createAccount">Create Account</string>
+</resources>
